@@ -1,7 +1,7 @@
 💫 Hi 👋, I'm Darshan Ved
 A passionate Full Stack Developer | Passsionate Presentation Designer | Creative Coder from India
 
-📩 Let's connect: darshanved2305@gmail.com — I'm open to collaborations, freelance gigs, and cool side-projects!
+I'm open to collaborations, freelance gigs, and cool side-projects!
 
 🔭 Currently working on: Full Stack Devlopement Skills
 
