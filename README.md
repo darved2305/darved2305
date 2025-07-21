@@ -1,72 +1,72 @@
-💫 Hi 👋, I'm Darshan Ved  
-A passionate Full Stack Developer | Passionate Presentation Designer | Creative Coder from India
+<h1> Hey, I’m Darshan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-I'm open to collaborations, freelance gigs, and cool side-projects!
+<a href="https://discord.gg/YOUR_DISCORD_INVITE">
+  <img align="left" alt="Darshan | Discord" width="30" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
+</a>
+<a href="https://www.linkedin.com/in/darshanved">
+  <img align="left" alt="Darshan | LinkedIN" width="30" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/_darshanved23_/">
+  <img align="left" alt="Darshan | Instagram" width="30" src="https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png" />
+</a>
 
-🔭 Currently working on: Full Stack Development Skills  
-🌱 Currently learning: DSA in C 🧠 | Advanced CSS & JavaScript | React.js  
-👯 Looking to collaborate on: Web dev projects and open-source contributions  
-🤝 Looking for help with: Making my projects more scalable and backend-strong  
-💬 Ask me about: Frontend magic ✨, GitHub tips, cool website designs  
-📫 Reach me at: darshanmved@gmail.com  
-😄 Fun fact: I make websites that don’t just work — they speak 😎  
-🎯 Goal: To become a pro full-stack dev & crack top tech companies 💻  
+![Profile Views](https://komarev.com/ghpvc/?username=darved2305)
 
----
+<br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+Hi, I'm **Darshan Ved**, a passionate full stack developer and presentation designer from India. I love crafting modern web interfaces, building scalable systems, and participating in hackathons and open-source projects.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_darshanved23_)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshanved)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshanmved@gmail.com)
+<ul>
+<li>🌱 I’m currently pursuing BTech in Computer Engineering (Data Science) at DJ Sanghvi College of Engineering </li>
+<li>💼 Wanna collaborate on Projects? Reach out via <a href="mailto:darshanmved@gmail.com">email</a></li>
+<li>💬 Ask me about frontend, GitHub, and design</li>
+<li>✨ Fun fact: I build websites that don’t just work — they speak! 😎</li>
+</ul>
 
----
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-%23EC1C24.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)  
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)  
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2300C8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=darved2305&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=darved2305&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darved2305&theme=dark&hide_border=false&layout=compact)
-
----
-
-## 📅 3D Contribution Calendar
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/3d-contrib/profile-night-green.svg" />
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,tailwind,react,nextjs,nodejs,express,mongodb,flask,py,c,cpp,figma,git,github,vscode,vercel,netlify&perline=14" />
+  </a>
 </p>
 
----
+<hr>
 
-## ✨ GitHub Snake Game
+<h2>Darshan's Contribution Graph</h2>
+<p align="center">
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=darved2305" />
+</p>
+
+<h2>GitHub Trophies</h2>
+<p align="center">
+<img width="800" src="https://github-profile-trophy.vercel.app/?username=darved2305&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" />
+<br>
+<a href="https://github-readme-stats.vercel.app/api?username=darved2305&show_icons=true&theme=tokyonight">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=darved2305&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=darved2305&theme=tokyonight">
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=darved2305&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=darved2305&theme=dark&layout=compact">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darved2305&theme=dark&layout=compact" />
+</a>
+</p>
+
+## 3D Contribution Calendar 🗓️
+<p align='center'>
+<img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/3d-contrib/profile-night-green.svg">
+</p>
+
+<hr>
+
+<p align="center">
+  <a href="https://quine.sh/profile/darved2305"><img src="https://stats.quine.sh/darved2305/github" alt="DarshanVed's GitHub stats" width="840px"></a> 
+  <a href="https://quine.sh/profile/darved2305"><img src="https://stats.quine.sh/darved2305/dependencies?theme=dark" alt="DarshanVed's GitHub | Dependencies" width="840px"></a> 
+  <a href="https://quine.sh/profile/darved2305"><img src="https://stats.quine.sh/darved2305/topics-over-time?theme=dark" alt="DarshanVed's GitHub | Topics Over Time" width="840px"></a> 
+  <a href="https://quine.sh/profile/darved2305"><img src="https://stats.quine.sh/darved2305/languages-over-time?theme=dark" alt="DarshanVed's GitHub | Languages Over Time" width="840px"></a> 
+</p>
+
+<h2 align="center">Github Contribution✨</h2>
+
 <p align="center">
   <img src="https://github.com/darved2305/darved2305/raw/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=darved2305&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
