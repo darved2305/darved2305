@@ -41,6 +41,10 @@ I'm open to collaborations, freelance gigs, and cool side-projects!
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2300C8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 
+<h2>Darshan's Contribution Graph</h2>
+<p align="center">
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=darved2305" />
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=darved2305&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
