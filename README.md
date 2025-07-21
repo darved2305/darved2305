@@ -56,14 +56,7 @@ Hi, I'm **Darshan Ved**, a passionate full stack developer and presentation desi
 <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/3d-contrib/profile-night-green.svg">
 </p>
 
-<hr>
-
-<p align="center">
-  <a href="https://quine.sh/profile/darved2305"><img src="https://stats.quine.sh/darved2305/github" alt="DarshanVed's GitHub stats" width="840px"></a> 
-  <a href="https://quine.sh/profile/darved2305"><img src="https://stats.quine.sh/darved2305/dependencies?theme=dark" alt="DarshanVed's GitHub | Dependencies" width="840px"></a> 
-  <a href="https://quine.sh/profile/darved2305"><img src="https://stats.quine.sh/darved2305/topics-over-time?theme=dark" alt="DarshanVed's GitHub | Topics Over Time" width="840px"></a> 
-  <a href="https://quine.sh/profile/darved2305"><img src="https://stats.quine.sh/darved2305/languages-over-time?theme=dark" alt="DarshanVed's GitHub | Languages Over Time" width="840px"></a> 
-</p>
+---
 
 <h2 align="center">Github Contribution✨</h2>
 
