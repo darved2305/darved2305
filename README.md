@@ -1,76 +1,76 @@
-<!-- Title + Intro -->
-<h1 align="left">Hey, I'm Darshan! 👋</h1>
+<h1> Hey, I’m Darshan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-<p align="left">
-  <a href="mailto:darshanmved@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/darshanved"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/_darshanved23_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=darved2305&label=Profile%20views&color=0e75b6&style=flat"/>
-  <img src="https://wakatime.com/badge/user/YOUR_ID.svg"/>
-</p>
+<a href="https://discord.gg/YOUR_INVITE_CODE">
+  <img align="left" alt="Darshan | Discord" width="30" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
+</a>
+<a href="https://www.linkedin.com/in/darshanved">
+  <img align="left" alt="Darshan | LinkedIn" width="30" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/_darshanved23_">
+  <img align="left" alt="Darshan | Instagram" width="30" src="https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png" />
+</a>
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=darved2305)
 
-### 👨‍💻 About Me
+<br>
 
-Hi, I'm **Darshan Ved**, a passionate full stack developer from India 🇮🇳  
-Currently learning DSA in C, exploring React.js, and building cool full stack projects.  
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 🔭 I’m working on advanced frontend and backend skills  
-- 🌱 Currently learning: JavaScript, React, MongoDB  
-- 👯 Looking to collaborate on web development and open-source projects  
-- 🤝 I’m open to freelance & collaboration work  
-- 💬 Ask me about: frontend magic, UI/UX, GitHub workflow  
-- ⚡ Fun fact: I make websites that don’t just work — they speak!
+Hi, I'm **Darshan Ved**, a passionate Full Stack Developer and Presentation Designer from 🇮🇳.  
+I enjoy building creative and scalable tech products that speak for themselves.
 
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-</p>
+<ul>
+  <li> 🌱 Pursuing B.Tech in CSE (Data Science) @ DJ Sanghvi College of Engineering </li>
+  <li> 💼 Open for freelance or collab opportunities — <a href="mailto:darshanmved@gmail.com">email</a> </li>
+  <li> 💬 Ask me about frontend magic, GitHub workflows, design vibes </li>
+  <li> ⚡ Fun fact: I design websites that don’t just work — they speak! ✨ </li>
+</ul>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=darved2305&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darved2305&theme=radical" width="400"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=darved2305&theme=radical&no-frame=true&row=2&column=4"/>
-</p>
-
----
-
-### 🧮 3D Contribution Calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/3d-contrib/profile-night-green.svg"/>
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,tailwind,react,nextjs,nodejs,express,mongodb,flask,py,c,cpp,figma,git,github,vscode,vercel,netlify&perline=14" />
+  </a>
 </p>
 
 ---
 
-### 🎯 Dev Quote
+<h2>Darshan's Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=darved2305" />
+</p>
+
+---
+
+<h2>GitHub Trophies</h2>
+
+<p align="center">
+  <img width="800" src="https://github-profile-trophy.vercel.app/?username=darved2305&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" />
+  <br />
+  <a href="https://github-readme-stats.vercel.app/api?username=darved2305&show_icons=true&theme=tokyonight">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=darved2305&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=darved2305&theme=tokyonight">
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=darved2305&theme=tokyonight" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=darved2305&theme=dark&layout=compact">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darved2305&theme=dark&layout=compact" />
+  </a>
+</p>
+
+---
+
+## 3D Contribution Calendar 📅
+<p align='center'>
+  <img src="./profile-3d-contrib/profile-night-green.svg" />
+</p>
+
+---
+
+<h2 align="center">✨ GitHub Snake Game ✨</h2>
+
+<p align="center">
+  <img src="https://github.com/darved2305/darved2305/blob/output/github-contribution-grid-snake.svg" />
 </p>
