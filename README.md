@@ -25,7 +25,7 @@ Hi, I'm **Darshan Ved**, a passionate full stack developer and presentation desi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,tailwind,react,nextjs,nodejs,express,mongodb,flask,py,c,cpp,figma,git,github,vscode,vercel,netlify&perline=14" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,css,html,java,js,python,tailwind,react,flask,netlify,vercel,canva,framer,git,github,figma,acrobat,photoshop&perline=9" />
   </a>
 </p>
 
@@ -51,15 +51,5 @@ Hi, I'm **Darshan Ved**, a passionate full stack developer and presentation desi
 </a>
 </p>
 
-## 3D Contribution Calendar 🗓️
-<p align='center'>
-<img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/3d-contrib/profile-night-green.svg">
-</p>
-
----
-
-<h2 align="center">Github Contribution✨</h2>
-
-<p align="center">
-  <img src="https://github.com/darved2305/darved2305/raw/output/github-contribution-grid-snake.svg" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
