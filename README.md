@@ -1,83 +1,100 @@
-# 💬 Hey, I’m Darshan Ved!
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/107906182?v=4" width="200" alt="Darshan Ved Profile Picture"/>
+</p>
 
-I'm a passionate Full Stack Developer from India —✨ creative coder, presentation enthusiast, and lifelong learner.
+<h1 align="center">Hey, I’m Darshan! 👋</h1>
 
-- 🔭 Currently honing my full-stack skills  
-- 🌱 Learning: DSA in C, Advanced CSS & JavaScript, React.js  
-- 👯 Looking to collaborate on web-dev & open-source projects  
-- 🤝 Seeking guidance: scalable architecture & strong backend design  
-- 💬 Ask me about: frontend magic, GitHub workflows, design tips  
-- 📫 Reach me at: darshanmved@gmail.com  
-- 😄 Fun fact: My websites don’t just work — they speak 😎  
-- 🎯 Goal: Become a pro full-stack dev & land at top tech companies 💼
+<p align="center">
+  <a href="https://discord.com/users/your-id"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat" /></a>
+  <a href="https://www.linkedin.com/in/darshanved"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" /></a>
+  <a href="https://instagram.com/_darshanved23_"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat" /></a>
+</p>
 
----
-
-## 🌐 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/_darshanved23_)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/darshanved)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:darshanmved@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=darved2305&style=flat-square&color=29b6f6" alt="Profile Views" />
+  <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="WakaTime" />
+</p>
 
 ---
 
-## 💻 Tech Stack
+### 👨‍💻 About Me
 
-### 🚀 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+Hi, I'm Darshan Ved — a creative full stack developer, presentation designer, and coding enthusiast from 🇮🇳.
 
-### 🔙 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-### 🧑‍💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-### 📚 Libraries & Tools
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)  
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)  
-![Scikit‑learn](https://img.shields.io/badge/Scikit‑Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-
-### 🛠️ Tools & Software
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)  
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+- 🔭 Currently working on full stack projects  
+- 🌱 Learning: DSA in C | Advanced CSS & JS | React.js  
+- 👯 Looking to collaborate on web dev & open source  
+- 🤝 Need help with backend scalability & architecture  
+- 💬 Ask me about frontend magic, GitHub tricks & UI/UX  
+- 😄 Fun fact: I build websites that speak!  
+- 🎯 Goal: Become a pro full stack dev & crack top tech companies  
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=darved2305&theme=dark&hide_border=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=darved2305&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darved2305&theme=dark&layout=compact)
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation">
-</div>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darved2305&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=darved2305&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darved2305&layout=compact&theme=radical" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=darved2305&theme=radical&no-bg=true&margin-w=4)
+### 🌟 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=darved2305&theme=radical&no-frame=false&margin-w=10" />
+</p>
+
+---
+
+### 📅 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-3d-contrib/main/3d-contrib/profile-night-green.svg" />
+</p>
+
+---
+
+### 🚀 Contribution Radar
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=darved2305&theme=radical" />
+</p>
 
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### 📬 Contact
+
+- 📧 darshanmved@gmail.com  
+- 🌐 [Portfolio Website (coming soon...)]()  
+- 💬 DM me on Instagram or LinkedIn
