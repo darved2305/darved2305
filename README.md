@@ -42,6 +42,7 @@ I'm open to collaborations, freelance gigs, and cool side-projects!
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
   <img src="https://img.shields.io/badge/Obsidian-%235757FF.svg?style=for-the-badge&logo=obsidian&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-%23EC1C24.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
