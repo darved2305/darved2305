@@ -61,15 +61,18 @@ I'm open to collaborations, freelance gigs, and cool side-projects!
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 
+<!-- 🛠️ Tools & Utilities -->
+<h3>🛠️ Tools & Utilities</h3>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Obsidian-5757FF?style=for-the-badge&logo=obsidian&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
 
-  <!-- 🛠️ Tools & Utilities -->
-  <h3>🛠️ Tools & Utilities</h3>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Obsidian-5757FF?style=for-the-badge&logo=obsidian&logoColor=white" />
 
-  <!-- 🚀 Deployment -->
+ <!-- 🚀 Deployment -->
   <h3>🚀 Deployment</h3>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
