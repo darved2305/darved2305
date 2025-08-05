@@ -50,15 +50,17 @@ I'm open to collaborations, freelance gigs, and cool side-projects!
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
 
-  <!-- 🎨 Design & Creativity -->
-  <h3>🎨 Design & Creativity</h3>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-00C8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+<!-- 🎨 Design & Creativity -->
+<h3>🎨 Design & Creativity</h3>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
+<img src="https://img.shields.io/badge/Spline-FFCA3F?style=for-the-badge&logo=spline&logoColor=black" />
+<img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-00C8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+
 
   <!-- 🛠️ Tools & Utilities -->
   <h3>🛠️ Tools & Utilities</h3>
