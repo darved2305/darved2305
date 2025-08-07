@@ -5,7 +5,7 @@ I'm open to collaborations, freelance gigs, and cool side-projects!
 
 🔭 Currently working on: Full Stack Devlopement Skills
 
-🌱 Currently learning: DSA in C 🧠 | Advanced CSS & JavaScript | React.js
+🌱 Currently learning: DSA in Java | React.js and Tailwind CSS
 
 👯 Looking to collaborate on: Web dev projects and open-source contributions
 
