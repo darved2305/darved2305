@@ -81,11 +81,6 @@ I'm open to collaborations, freelance gigs, and cool side-projects!
 
 <br>
 
-<h2>Darshan's Contribution Graph</h2>
-<p align="center">
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=darved2305" />
-</p>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=darved2305&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=darved2305&theme=dark&hide_border=false)<br/>
