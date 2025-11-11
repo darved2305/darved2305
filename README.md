@@ -1,101 +1,81 @@
-💫 Hi 👋, I'm Darshan Ved  
-A passionate Full Stack Developer | Passionate Presentation Designer | Creative Coder from India
+<img alt="Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40" align="left"/><h2>Hey there! I'm Darshan Ved</h2>
 
-I'm open to collaborations, freelance gigs, and cool side-projects!
+### 👨🏻‍💻 &nbsp;About Me
 
-🔭 Currently working on: Full Stack Development Skills
+💡 &nbsp;I love building creative, visually stunning, and functional web applications.  
+🎓 &nbsp;I'm a Computer Science Engineering (Data Science) student at D. J. Sanghvi College of Engineering.  
+🌱 &nbsp;Currently sharpening my skills in **DSA (Java)** and **React.js + Tailwind CSS**.  
+⚡ &nbsp;I enjoy blending design and development — making websites that don’t just work, they speak ✨.  
+💬 &nbsp;Feel free to reach out for **collabs, freelance gigs, or brainstorming cool projects**.  
+📧 &nbsp;Reach me at **[darshanmved@gmail.com](mailto:darshanmved@gmail.com)** — always happy to connect!  
+🎯 &nbsp;Goal: To become a pro full-stack developer & crack top tech companies 💻  
 
-🌱 Currently learning: DSA in Java | React.js and Tailwind CSS
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-👯 Looking to collaborate on: Web dev projects and open-source contributions
+---
 
-🤝 Looking for help with: Making my projects more scalable and backend-strong
+### 🛠 &nbsp;Tech Stack
 
-💬 Ask me about: Frontend magic ✨, GitHub tips, cool website designs
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;\
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
+![Framer Motion](https://img.shields.io/badge/-Framer--Motion-05122A?style=flat&logo=framer)&nbsp;\
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;\
+![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![PowerPoint](https://img.shields.io/badge/-PowerPoint-05122A?style=flat&logo=microsoft-powerpoint)&nbsp;\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![VSCode](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;\
+![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
 
-📫 Reach me at: darshanmved@gmail.com
+---
 
-😄 Fun fact: I make websites that don’t just work — they speak 😎
+### ⚙️ &nbsp;GitHub Analytics
 
-🎯 Goal: To become a pro full-stack dev & crack top tech companies 💻
+<p align="center">
+<a href="https://github.com/darved2305">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darved2305&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=darved2305&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_darshanved23_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshanved@gmail.com) 
+---
 
-## 💻 Tech Stack:
-<div style="overflow-x: auto; white-space: nowrap;">
+### 🏆 &nbsp;GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=darved2305&theme=algolia&no-frame=true&margin-w=15"/>
+</p>
 
-  <!-- 💻 Programming Languages -->
-  <h3>💻 Programming Languages</h3>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+---
 
-  <!-- 🖥️ Frontend -->
-  <h3>🖥️ Frontend</h3>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spline-FFCA3F?style=for-the-badge&logo=spline&logoColor=black" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer--Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+### ✍️ &nbsp;Random Dev Quote
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia"/>
+</p>
 
-  <!-- ⚙️ Backend / API -->
-  <h3>⚙️ Backend / API</h3>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+---
 
-  <!-- 🗄️ Database -->
-  <h3>🗄️ Database</h3>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+### 🤝🏻 &nbsp;Connect with Me
 
-  <!-- 🎨 Design & Creativity -->
-  <h3>🎨 Design & Creativity</h3>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-00C8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-
-  <!-- 🛠️ Tools & Utilities -->
-  <h3>🛠️ Tools & Utilities</h3>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Obsidian-5757FF?style=for-the-badge&logo=obsidian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
-
-  <!-- 🚀 Deployment -->
-  <h3>🚀 Deployment</h3>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
-</div>
-
-<br>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=darved2305&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=darved2305&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darved2305&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=darved2305&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+<a href="https://linkedin.com/in/darved2305"><img src="https://img.shields.io/badge/-Darshan%20Ved-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:darshanmved@gmail.com"><img src="https://img.shields.io/badge/-darshanmved@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/_darshanved23_"><img src="https://img.shields.io/badge/-@_darshanved23_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://github.com/darved2305"><img src="https://img.shields.io/badge/-@darved2305-171515?style=flat&logo=github&logoColor=white"/></a>
+</p>
