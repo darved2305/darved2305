@@ -66,24 +66,55 @@ I have hands-on experience across **real-world projects, hackathon solutions, an
 
 ### **Smart Student Hub (VidyaSetu)**
 - **Tech Stack**: React, Tailwind CSS, FastAPI, MongoDB
-- Centralized platform for managing student achievements and verified digital portfolios
-- Implemented approval workflows, role-based dashboards, and analytics-ready data structures
+- Centralized platform for managing **student achievements, activities, and verified digital portfolios**
+- Enabled students to **upload achievements, certificates, projects, and extracurricular records** in a structured format
+- Implemented **faculty/admin approval workflows** to verify and validate student submissions
+- Built **role-based dashboards** for students, faculty, and administrators
+- Auto-generated **shareable digital student portfolios** (profile-style view) for internships, scholarships, and higher studies
+- Designed **analytics-ready data models** to support institutional reporting (NAAC / AICTE / NIRF use cases)
+- Integrated **activity timelines and progress tracking** to reflect holistic student development over time
+- Supported **export-ready records** to simplify audits, accreditation reviews, and institutional documentation
+- Focused on **data consistency, transparency, and long-term scalability** for higher education institutions
+
+---
+
+### **MediGuard AI — Intelligent Disease Prediction System**
+- **Tech Stack**: React, Tailwind CSS, FastAPI, Python, ML Models
+- AI-powered platform that predicts **7+ diseases** based on a structured patient dataset
+- Allows users to **input their own medical values** to receive real-time disease predictions
+- Built predictive models trained on curated clinical datasets for early risk identification
+- Designed an **AI chatbot assistant** to explain predictions, symptoms, and next-step guidance
+- Focused on explainability, safe AI usage, and user-friendly health insights
+
+---
+
+### **ATS Resume Checker & Analyzer**
+- **Tech Stack**: React, Tailwind CSS, Node.js, NLP APIs
+- Web-based ATS (Applicant Tracking System) tool to evaluate resume compatibility with job descriptions
+- Provides actionable recommendations to improve resume shortlisting probability
+- Designed recruiter-style UI with real-time resume parsing and feedback
+
+---
 
 ### **MailMind — AI Gmail Assistant (Chrome Extension)**
 - **Tech Stack**: React, Node.js, AI APIs
 - Chrome extension that generates context-aware AI-powered email replies
 - Focused on prompt optimization, UX efficiency, and real-time response injection
 
+---
+
 ### **PaySaPal — Expense Splitter**
 - **Tech Stack**: React, Convex, Clerk
 - Real-time expense sharing platform with authentication and live state synchronization
 - Implemented secure user sessions and collaborative expense tracking
 
+---
+
 ### **Saral AI**
 - **Tech Stack**: React.js, TailwindCSS, Vite, Node.js
 - AI-powered learning platform that converts research content into **summaries, podcasts, and structured mind maps**
 - Developed content summarization, keyword extraction, and audio generation modules
-- Optimized backend processing pipelines and ensured seamless frontend–server integration
+- Optimized backend pipelines and ensured seamless frontend–server integration
 
 ---
 
@@ -91,15 +122,15 @@ I have hands-on experience across **real-world projects, hackathon solutions, an
 
 ### **DJS S4DS, Mumbai**  
 **Creatives Co-Committee Member** | Sept 2025 – Present  
-- Contributed to UI/UX design and visual development of the official **DJS S4DS website** using **Figma and frontend tools**
-- Designed event posts, carousels, and interactive stories with focus on **responsive layouts and design systems**
-- Ensured consistent branding, accessibility standards, and visual coherence across digital assets
+- Contributed to UI/UX design and visual development of the official **DJS S4DS website**
+- Designed event creatives, carousels, and responsive layouts
+- Ensured consistent branding and accessibility across digital assets
 
 ### **DJS Trinity, Mumbai**  
 **Technical Co-Committee Member** | Aug 2025 – Present  
-- Contributed to development and deployment of the **official DJS Trinity website** using **React.js and TailwindCSS**
-- Built scalable modules including **event registration systems and media galleries**
-- Collaborated with backend and design teams to improve **performance, responsiveness, and SEO**
+- Contributed to development of the **official DJS Trinity website**
+- Built scalable modules including **event registration systems**
+- Improved performance, responsiveness, and SEO
 
 ---
 
@@ -113,18 +144,18 @@ I have hands-on experience across **real-world projects, hackathon solutions, an
 ---
 
 ## Achievements 🏅
-- 🥈 **Second Runner-Up — TechnoGrad 3.0**, inter-college technical project competition
+- 🥈 **Second Runner-Up — TechnoGrad 3.0**
 - 🏆 **1× Hackathon Winner**
-- 🏅 **Top 40 — DataHack 3.0**, Mumbai’s largest datathon (1000+ teams)
-- 🧪 **Finalist selection** in multiple competitive technical hackathons
+- 🏅 **Top 40 — DataHack 3.0** (1000+ teams)
+- 🧪 Finalist in multiple competitive hackathons
 
 ---
 
 ## Current Focus 🎯
 - Strengthening **DSA (Java)** for technical interviews
-- Building production-grade applications using the **MERN stack**
-- Exploring **AI-powered systems, full-stack platforms, and SaaS architectures**
-- Preparing for **top-tier tech internships and software engineering roles**
+- Building **production-grade MERN & FastAPI applications**
+- Exploring **AI-powered systems and SaaS architectures**
+- Preparing for **top-tier tech internships**
 
 ---
 
