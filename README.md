@@ -35,30 +35,11 @@ I have hands-on experience across **real-world projects, hackathon solutions, an
 
 ## Technologies & Skills 🚀
 
-### Languages
-- C, Java, Python  
-- JavaScript, TypeScript  
-
-### Frontend
-- React.js, Next.js  
-- Tailwind CSS, shadcn/ui  
-- Framer Motion, Vite  
-
-### Backend
-- Node.js, Express.js  
-- FastAPI, Flask  
-- REST APIs, authentication systems  
-
-### Databases
-- PostgreSQL, MongoDB  
-- Redis  
-
-### Cloud & Deployment
-- Vercel, Netlify, Render  
-
-### Tools & Platforms
-- Git, GitHub, Postman  
-- VS Code, Figma, Canva  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,java,python,javascript,typescript,html,css,react,nextjs,tailwind,shadcnui,vite,framermotion,nodejs,express,fastapi,flask,postgres,mongodb,redis,firebase,supabase,convex,clerk,git,github,postman,vscode,figma,canva,netlify,vercel,render&perline=14" />
+  </a>
+</p>
 
 ---
 
@@ -132,10 +113,10 @@ I have hands-on experience across **real-world projects, hackathon solutions, an
 ---
 
 ## Achievements 🏅
-- 🥈 **Second Runner-Up — TechnoGrad 3.0**, an inter-college technical project competition
+- 🥈 **Second Runner-Up — TechnoGrad 3.0**, inter-college technical project competition
 - 🏆 **1× Hackathon Winner**
-- 🏅 **Top 40 — DataHack 3.0**, Mumbai’s largest datathon, selected among 1000+ participating teams
-- 🧪 **Finalist selection** in multiple competitive technical hackathons based on implementation quality
+- 🏅 **Top 40 — DataHack 3.0**, Mumbai’s largest datathon (1000+ teams)
+- 🧪 **Finalist selection** in multiple competitive technical hackathons
 
 ---
 
