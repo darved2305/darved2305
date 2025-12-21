@@ -118,6 +118,15 @@ I have hands-on experience across **real-world projects, hackathon solutions, an
 
 ---
 
+## 🏅 Achievements
+- Second Runner-Up — TechnoGrad 3.0, DJSCE Mumbai  
+- Top 13 (Finalist) — Redact 2025, SPIT Mumbai  
+- Finalist — Odoo × Amalthea Hackathon, IIT Gandhinagar  
+- Top 10 — Megathon 2025, IIIT Hyderabad  
+- Top 40 — DataHack 3.0 (200+ teams), DJSCE Mumbai  
+
+---
+
 ## Extracurriculars 🧩
 
 ### **DJS S4DS, Mumbai**  
@@ -143,19 +152,12 @@ I have hands-on experience across **real-world projects, hackathon solutions, an
 
 ---
 
-## Achievements 🏅
-- 🥈 **Second Runner-Up — TechnoGrad 3.0**
-- 🏆 **1× Hackathon Winner**
-- 🏅 **Top 40 — DataHack 3.0** (1000+ teams)
-- 🧪 Finalist in multiple competitive hackathons
-
----
-
 ## Current Focus 🎯
-- Strengthening **DSA (Java)** for technical interviews
-- Building **production-grade MERN & FastAPI applications**
-- Exploring **AI-powered systems and SaaS architectures**
-- Preparing for **top-tier tech internships**
+- Strengthening **DSA in Java**
+- Developing **MERN & ML-based projects**
+- Expanding knowledge in **AI and software systems**
+- Actively seeking **growth opportunities**
+
 
 ---
 
