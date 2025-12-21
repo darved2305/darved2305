@@ -1,7 +1,7 @@
 <a href="https://darshanxdev.netlify.app">
   <img align="left" alt="Darshan's Portfolio" width="22px" src="https://img.icons8.com/ios/50/domain--v1.png" />
 </a>
-<a href="https://linkedin.com/in/darved2305">
+<a href="https://www.linkedin.com/in/darshan-ved-38075632a">
   <img align="left" alt="Darshan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/darved2305">
