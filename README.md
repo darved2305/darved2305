@@ -37,8 +37,8 @@ I have hands-on experience across **real-world projects, hackathon solutions, an
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,java,python,javascript,typescript,html,css,react,nextjs,threejs,tailwind,vite,redux,nodejs,express,fastapi,flask,graphql,jwt,socketio,prisma,postgres,mysql,mongodb,sqlite,redis,firebase,docker,githubactions,git,github,npm,postman,jupyter,kaggle,streamlit,vscode,figma,canva,netlify,vercel,render,replit&perline=14" />
-  </a>
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=c,java,python,javascript,typescript,html,css,react,nextjs,threejs,tailwind,gsap,framer,vite,redux,nodejs,express,fastapi,flask,graphql,jwt,socketio,prisma,postgres,mysql,mongodb,sqlite,redis,supabase,firebase,docker,githubactions,git,github,npm,postman,jupyter,kaggle,streamlit,vscode,figma,canva,netlify,vercel,render,replit&perline=14" />
+ </a>
 </p>
 
 
