@@ -16,7 +16,7 @@
 
 🏆 **1× Hackathon Winner** | **DJSCE ’28** | **Full Stack Developer** | **AI × Web Enthusiast** 🏆  
 
-**🌐 Portfolio**: [darshanxdev.netlify.app](https://darshanxdev.netlify.app)
+**🌐 Portfolio**: [https://darshanved.vercel.app/](https://darshanved.vercel.app/)
 
 ---
 
