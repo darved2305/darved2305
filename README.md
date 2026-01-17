@@ -165,7 +165,7 @@ I have hands-on experience across **real-world projects, hackathon solutions, an
 <div align="center">
 
 ### 📫 Let’s Connect
-**Portfolio**: [darshanxdev.netlify.app](https://darshanxdev.netlify.app)  
+**Portfolio**: [https://darshanved.vercel.app/](https://darshanved.vercel.app/)  
 **Email**: darshanmved@gmail.com  
 **Location**: Mumbai, India  
 
