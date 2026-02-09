@@ -37,7 +37,7 @@ Currently focused on **Java DSA**, **System Design**, and **Generative AI** inte
 
 <p align="center">
   <a href="https://skillicons.dev">
- <img src="https://go-skill-icons.vercel.app/api/icons?i=c,java,python,javascript,typescript,html,css,react,nextjs,threejs,tailwind,gsap,framer,vite,redux,nodejs,express,fastapi,flask,graphql,jwt,socketio,prisma,postgres,mysql,mongodb,sqlite,redis,supabase,firebase,docker,githubactions,git,github,bash,linux,nginx,heroku,vercel,netlify,aws,gcp,opencv,tensorflow,pytorch,sklearn,jupyter,kaggle,npm,postman,streamlit,vscode,figma,canva,render,replit,vim,selenium&perline=14" />
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=c,java,python,javascript,typescript,html,css,react,nextjs,threejs,tailwind,gsap,framer,vite,redux,nodejs,express,fastapi,flask,graphql,jwt,socketio,prisma,postgres,mysql,mongodb,sqlite,redis,supabase,firebase,docker,githubactions,git,github,vercel,netlify,aws,gcp,sklearn,jupyter,kaggle,npm,postman,streamlit,vscode,figma,canva,render,replit,&perline=14" />
  </a>
 </p>
 
