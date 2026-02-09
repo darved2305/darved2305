@@ -37,7 +37,7 @@ Currently focused on **Java DSA**, **System Design**, and **Generative AI** inte
 
 <p align="center">
   <a href="https://skillicons.dev">
- <img src="https://go-skill-icons.vercel.app/api/icons?i=c,java,python,javascript,typescript,html,css,react,nextjs,threejs,tailwind,gsap,framer,vite,redux,nodejs,express,fastapi,flask,graphql,jwt,socketio,prisma,postgres,mysql,mongodb,sqlite,redis,supabase,firebase,docker,githubactions,git,github,npm,postman,jupyter,kaggle,streamlit,vscode,figma,canva,netlify,vercel,render,replit&perline=14" />
+ <img src="https://go-skill-icons.vercel.app/api/icons?i=c,java,python,javascript,typescript,html,css,react,nextjs,threejs,tailwind,gsap,framer,vite,redux,nodejs,express,fastapi,flask,graphql,jwt,socketio,prisma,postgres,mysql,mongodb,sqlite,redis,supabase,firebase,docker,githubactions,git,github,bash,linux,nginx,heroku,vercel,netlify,aws,gcp,opencv,tensorflow,pytorch,sklearn,jupyter,kaggle,npm,postman,streamlit,vscode,figma,canva,render,replit,vim,selenium&perline=14" />
  </a>
 </p>
 
@@ -49,6 +49,7 @@ Currently focused on **Java DSA**, **System Design**, and **Generative AI** inte
 - **Physics Twin:** Engineered a deterministic organ scoring engine that renders a 3D interactive body and streams simulated real-time telemetry via Server-Sent Events (SSE).
 - **Knowledge Graph:** Implemented a persistent memory layer using Graphiti and Neo4j to track temporal health trends and detect medical contradictions across sessions.
 - **Voice Agent:** Developed a hands-free health assistant using Web Speech API and Google Gemini, featuring emergency detection and HIPAA-compliant safety guardrails.
+- **Medicine Discovery:** Architected a cost-optimization engine that ranks generic medicine alternatives based on chemical equivalence (salt/dosage) and integrated geospatial querying to locate government-subsidized (Jan Aushadhi) pharmacies.
 - **OCR Pipeline:** Integrated PaddleOCR and LLM parsing to extract normalized health metrics from PDF lab reports, automatically populating the user's health index.
 
 ### VyaparMitra
