@@ -1,39 +1,39 @@
+<div align="left">
+
 <a href="https://darshanxdev.netlify.app">
-  <img align="left" alt="Darshan's Portfolio" width="22px" src="https://img.icons8.com/ios/50/domain--v1.png" />
+  <img align="left" alt="Portfolio" width="22px" src="https://img.icons8.com/ios/50/domain--v1.png" />
 </a>
 <a href="https://www.linkedin.com/in/darshan-ved-38075632a">
-  <img align="left" alt="Darshan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/darved2305">
-  <img align="left" alt="Darshan's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/_darshanved23_">
-  <img align="left" alt="Darshan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+</div>
 <br/>
 <br/>
 
-🏆 **1× Hackathon Winner** | **DJSCE ’28** | **Full Stack Developer** | **AI × Web Enthusiast** 🏆  
+# Darshan Ved
 
-**🌐 Portfolio**: [https://darshanved.vercel.app/](https://darshanved.vercel.app/)
+**Full Stack Developer | AI Engineer | Data Science Undergrad**
 
----
+I am a Computer Science Engineering student at Dwarkadas J. Sanghvi College of Engineering, specializing in Data Science. My expertise lies in architecting scalable full-stack applications and integrating AI models into production environments. I bridge the gap between complex backend systems and intuitive frontend design, focusing on performance, maintainability, and real-world impact.
 
-## About Me 🧑‍💻  
-**"Building products that blend intelligence, design, and scale"**
+Currently focused on **Java DSA**, **System Design**, and **Generative AI** integrations.
 
-I’m a **Computer Science Engineering (Data Science)** undergraduate at **Dwarkadas J. Sanghvi College of Engineering**, passionate about building **modern, scalable, and visually compelling web applications**.
+## Professional Experience
 
-I enjoy working at the intersection of **frontend engineering, backend systems, and AI-powered products**. From crafting polished React + Tailwind interfaces to designing robust APIs and data models, I focus on delivering **production-ready, maintainable solutions**.
+**Web Developer Intern | Theta Sound**
+- **Performance Optimization:** Orchestrated a complete frontend overhaul using React and Tailwind CSS, slashing First Contentful Paint (FCP) latency by **40%** through aggressive code splitting and lazy loading strategies.
+- **State Management Architecture:** Refactored legacy prop-drilling patterns into a centralized state management flow, eliminating **30%** of unnecessary re-renders and drastically improving UI responsiveness.
+- **Component Engineering:** Engineered a modular, reusable component library that accelerated feature shipping velocity by **35%**, enforcing strict TypeScript interfaces to reduce runtime errors near-zero.
+- **API Integration:** Optimized payload handling between the frontend and backend microservices, implementing caching layers that reduced network overhead by **25%** during peak load times.
 
-I have hands-on experience across **real-world projects, hackathon solutions, and student-led technical initiatives**, and I’m currently strengthening my foundations in **DSA (Java)** while building full-stack applications using **React, TypeScript, FastAPI, and modern backend stacks**.
-
-💡 I believe great software doesn’t just function — **it communicates, scales, and endures**.
-
----
-
-## Technologies & Skills 🚀
+## Technologies & Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -41,133 +41,70 @@ I have hands-on experience across **real-world projects, hackathon solutions, an
  </a>
 </p>
 
+## Engineering Projects
 
----
+### Lumea Health Platform
+*A unified medical companion platform featuring 3D health visualization, RAG-based memory, and voice interaction.*
+- **Architecture:** Built a microservices-based backend using FastAPI and Python 3.13, orchestrating OCR pipelines, vector stores, and graph databases.
+- **Physics Twin:** Engineered a deterministic organ scoring engine that renders a 3D interactive body and streams simulated real-time telemetry via Server-Sent Events (SSE).
+- **Knowledge Graph:** Implemented a persistent memory layer using Graphiti and Neo4j to track temporal health trends and detect medical contradictions across sessions.
+- **Voice Agent:** Developed a hands-free health assistant using Web Speech API and Google Gemini, featuring emergency detection and HIPAA-compliant safety guardrails.
+- **OCR Pipeline:** Integrated PaddleOCR and LLM parsing to extract normalized health metrics from PDF lab reports, automatically populating the user's health index.
 
-## Experience & Work 💼
+### VyaparMitra
+*An AI-driven retail intelligence platform for inventory management, demand forecasting, and shelf optimization.*
+- **Hybrid Microservices:** Designed a hybrid architecture using Node.js/TypeScript for core business logic and a Python microservice for computer vision tasks.
+- **Computer Vision:** Deployed YOLO models to perform real-time shelf monitoring and object detection, automating stock counting and low-inventory alerts via WhatsApp.
+- **Market Basket Analysis:** Applied the Apriori algorithm to analyze transaction datasets, generating data-driven shelf placement strategies to maximize cross-selling.
+- **RAG Assistant:** Integrated Qdrant vector database and LangChain to power a context-aware product assistant capable of querying unstructured PDF knowledge bases.
+- **High-Performance Analytics:** Built a streaming CSV parser to process massive sales datasets memory-efficiently, enabling seasonal trend analysis and revenue forecasting.
 
-### **Web Developer Intern — Theta Sound**
-- Built and maintained responsive, component-based frontend interfaces using **React and Tailwind CSS**
-- Integrated frontend components with backend APIs to ensure smooth data flow
-- Worked within real-world development workflows involving **version control, deployments, and UI consistency**
+### Vidya Setu
+*A centralized academic project management and digital portfolio system for higher education institutions.*
+- **Centralized Repository:** Developed a scalable platform using React, Node.js, and MongoDB to unify project submission, evaluation, and archiving workflows.
+- **Digital Portfolios:** Engineered an automated portfolio generation system that compiles student achievements and verified certificates into shareable, internship-ready profiles.
+- **RBAC System:** Implemented a granular Role-Based Access Control system with JWT authentication to manage distinct permissions for students, faculty, and administrators.
+- **Compliance Reporting:** Designed analytics-ready data models that align with institutional reporting standards (NAAC/NIRF), simplifying accreditation audits.
+- **File Management:** Utilized MongoDB GridFS for secure, scalable storage and retrieval of academic documents and project assets.
 
-### **Digital Marketing Intern — Parmar Properties**
-- Developed and managed structured digital property listings to improve visibility and engagement
-- Collaborated with design and sales teams to maintain consistent digital branding
-- Strengthened client-facing communication and content presentation skills
+### GearGuard
+*A full-stack asset maintenance system featuring Kanban workflows and smart equipment monitoring.*
+- **Workflow Orchestration:** Built an interactive Kanban board using React and `@hello-pangea/dnd` to visualize and manage the lifecycle of maintenance requests.
+- **Asset Lifecycle Logic:** Implemented automated equipment health degradation logic that triggers scrapping workflows and status updates based on maintenance history.
+- **Data Integrity:** Designed a normalized SQLite database schema with strict constraints to track equipment assignments, warranty periods, and technician workloads.
+- **Scheduling System:** Developed a visual calendar interface for planning preventive maintenance, ensuring optimal resource allocation across work centers.
+- **Security:** Established a secure authentication flow using bcrypt hashing and JWT sessions, protecting API endpoints for critical asset operations.
 
-### **Teaching Assistant — Jasmina Tutorials**
-- Delivered structured instruction in **Mathematics and Science (Std 6–9)**
-- Simplified complex concepts through logical breakdowns and problem-solving approaches
-- Developed strong communication, mentoring, and explanation skills
+### PaySaPal
+*A real-time expense splitting application with background financial insights.*
+- **Real-Time Sync:** Leveraged Convex as a reactive backend to ensure instant state synchronization across devices for shared group expenses.
+- **Complex Logic:** Implemented splitting algorithms supporting equal, exact, and percentage-based distribution while maintaining floating-point precision.
+- **Background Processing:** Integrated Inngest to handle scheduled cron jobs for monthly spending summaries and daily debt settlement reminders.
+- **AI Insights:** Utilized Google Generative AI to analyze transaction history and generate personalized financial advice and spending trends.
 
----
+### MailMind
+*A Chrome Extension (MV3) for context-aware, AI-generated email responses.*
+- **Browser Integration:** Developed a manifest v3 Chrome extension that injects UI components directly into the Gmail DOM for seamless user interaction.
+- **Secure Backend:** Architected a Node.js/Express middleware to handle OAuth tokens and API keys, ensuring no sensitive credentials are exposed in the client-side code.
+- **Contextual Generation:** Engineered prompt optimization pipelines to analyze email thread history and generate tonally appropriate reply drafts.
 
-## Featured Projects 🌟
+## Achievements
 
-### **Smart Student Hub (VidyaSetu)**
-- **Tech Stack**: React, Tailwind CSS, FastAPI, MongoDB
-- Centralized platform for managing **student achievements, activities, and verified digital portfolios**
-- Enabled students to **upload achievements, certificates, projects, and extracurricular records** in a structured format
-- Implemented **faculty/admin approval workflows** to verify and validate student submissions
-- Built **role-based dashboards** for students, faculty, and administrators
-- Auto-generated **shareable digital student portfolios** (profile-style view) for internships, scholarships, and higher studies
-- Designed **analytics-ready data models** to support institutional reporting (NAAC / AICTE / NIRF use cases)
-- Integrated **activity timelines and progress tracking** to reflect holistic student development over time
-- Supported **export-ready records** to simplify audits, accreditation reviews, and institutional documentation
-- Focused on **data consistency, transparency, and long-term scalability** for higher education institutions
+- **Second Runner-Up**, TechnoGrad 3.0 (DJSCE Mumbai)
+- **Top 13 Finalist**, Redact 2025 (SPIT Mumbai)
+- **Finalist**, Odoo × Amalthea Hackathon (IIT Gandhinagar)
+- **Top 10**, Megathon 2025 (IIIT Hyderabad)
+- **Top 40**, DataHack 3.0 (DJSCE Mumbai - 200+ teams)
 
----
+## Open Source & Statistics
 
-### **MediGuard AI — Intelligent Disease Prediction System**
-- **Tech Stack**: React, Tailwind CSS, FastAPI, Python, ML Models
-- AI-powered platform that predicts **7+ diseases** based on a structured patient dataset
-- Allows users to **input their own medical values** to receive real-time disease predictions
-- Built predictive models trained on curated clinical datasets for early risk identification
-- Designed an **AI chatbot assistant** to explain predictions, symptoms, and next-step guidance
-- Focused on explainability, safe AI usage, and user-friendly health insights
-
----
-
-### **ATS Resume Checker & Analyzer**
-- **Tech Stack**: React, Tailwind CSS, Node.js, NLP APIs
-- Web-based ATS (Applicant Tracking System) tool to evaluate resume compatibility with job descriptions
-- Provides actionable recommendations to improve resume shortlisting probability
-- Designed recruiter-style UI with real-time resume parsing and feedback
-
----
-
-### **MailMind — AI Gmail Assistant (Chrome Extension)**
-- **Tech Stack**: React, Node.js, AI APIs
-- Chrome extension that generates context-aware AI-powered email replies
-- Focused on prompt optimization, UX efficiency, and real-time response injection
-
----
-
-### **PaySaPal — Expense Splitter**
-- **Tech Stack**: React, Convex, Clerk
-- Real-time expense sharing platform with authentication and live state synchronization
-- Implemented secure user sessions and collaborative expense tracking
-
----
-
-### **Saral AI**
-- **Tech Stack**: React.js, TailwindCSS, Vite, Node.js
-- AI-powered learning platform that converts research content into **summaries, podcasts, and structured mind maps**
-- Developed content summarization, keyword extraction, and audio generation modules
-- Optimized backend pipelines and ensured seamless frontend–server integration
-
----
-
-## 🏅 Achievements
-- Second Runner-Up — TechnoGrad 3.0, DJSCE Mumbai  
-- Top 13 (Finalist) — Redact 2025, SPIT Mumbai  
-- Finalist — Odoo × Amalthea Hackathon, IIT Gandhinagar  
-- Top 10 — Megathon 2025, IIIT Hyderabad  
-- Top 40 — DataHack 3.0 (200+ teams), DJSCE Mumbai  
-
----
-
-## Extracurriculars 🧩
-
-### **DJS S4DS, Mumbai**  
-**Creatives Co-Committee Member** | Sept 2025 – Present  
-- Contributed to UI/UX design and visual development of the official **DJS S4DS website**
-- Designed event creatives, carousels, and responsive layouts
-- Ensured consistent branding and accessibility across digital assets
-
-### **DJS Trinity, Mumbai**  
-**Technical Co-Committee Member** | Aug 2025 – Present  
-- Contributed to development of the **official DJS Trinity website**
-- Built scalable modules including **event registration systems**
-- Improved performance, responsiveness, and SEO
-
----
-
-## GitHub Stats 📊
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darved2305&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=darved2305&layout=compact&langs_count=8&theme=algolia"/>
+<p align="left">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darved2305&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=darved2305&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
----
+## Contact
 
-## Current Focus 🎯
-- Strengthening **DSA in Java**
-- Developing **MERN & ML-based projects**
-- Expanding knowledge in **AI and software systems**
-- Actively seeking **growth opportunities**
-
-
----
-
-<div align="center">
-
-### 📫 Let’s Connect
-**Portfolio**: [https://darshanved.vercel.app/](https://darshanved.vercel.app/)  
-**Email**: darshanmved@gmail.com  
-**Location**: Mumbai, India  
-
-✨ *Show some love by starring my repositories and connecting with me!* ✨
-</div>
+- **Portfolio:** [darshanved.vercel.app](https://darshanved.vercel.app/)
+- **Email:** darshanmved@gmail.com
+- **Location:** Mumbai, India
