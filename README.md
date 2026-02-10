@@ -19,7 +19,7 @@
 
 # Darshan Ved
 
-**Full Stack Developer | AI Engineer | Data Science Undergrad**
+**Full Stack Developer | Data Science Undergrad**
 
 I am a Computer Science Engineering student at Dwarkadas J. Sanghvi College of Engineering, specializing in Data Science. My expertise lies in architecting scalable full-stack applications and integrating AI models into production environments. I bridge the gap between complex backend systems and intuitive frontend design, focusing on performance, maintainability, and real-world impact.
 
