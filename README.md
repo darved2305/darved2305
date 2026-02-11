@@ -19,7 +19,7 @@
 
 # Darshan Ved
 
-**Full Stack Developer | Data Science Undergrad**
+**2x Hackathon Winner | Full Stack Developer | Data Science Undergrad**
 
 I am a Computer Science Engineering student at Dwarkadas J. Sanghvi College of Engineering, specializing in Data Science. My expertise lies in architecting scalable full-stack applications and integrating AI models into production environments. I bridge the gap between complex backend systems and intuitive frontend design, focusing on performance, maintainability, and real-world impact.
 
@@ -92,6 +92,7 @@ Currently focused on **Java DSA**, **System Design**, and **Generative AI** inte
 ## Achievements
 
 - **Second Runner-Up**, TechnoGrad 3.0 (DJSCE Mumbai)
+- **First Runner-Up**, CO - Code 2.0 (DJSCE Mumbai)
 - **Top 13 Finalist**, Redact 2025 (SPIT Mumbai)
 - **Finalist**, Odoo × Amalthea Hackathon (IIT Gandhinagar)
 - **Top 10**, Megathon 2025 (IIIT Hyderabad)
