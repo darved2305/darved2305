@@ -41,54 +41,6 @@ Currently focused on **Java DSA**, **System Design**, and **Generative AI** inte
  </a>
 </p>
 
-## Engineering Projects
-
-### Lumea Health Platform
-*A unified medical companion platform featuring 3D health visualization, RAG-based memory, and voice interaction.*
-- **Architecture:** Built a microservices-based backend using FastAPI and Python 3.13, orchestrating OCR pipelines, vector stores, and graph databases.
-- **Physics Twin:** Engineered a deterministic organ scoring engine that renders a 3D interactive body and streams simulated real-time telemetry via Server-Sent Events (SSE).
-- **Knowledge Graph:** Implemented a persistent memory layer using Graphiti and Neo4j to track temporal health trends and detect medical contradictions across sessions.
-- **Voice Agent:** Developed a hands-free health assistant using Web Speech API and Google Gemini, featuring emergency detection and HIPAA-compliant safety guardrails.
-- **Medicine Discovery:** Architected a cost-optimization engine that ranks generic medicine alternatives based on chemical equivalence (salt/dosage) and integrated geospatial querying to locate government-subsidized (Jan Aushadhi) pharmacies.
-- **OCR Pipeline:** Integrated PaddleOCR and LLM parsing to extract normalized health metrics from PDF lab reports, automatically populating the user's health index.
-
-### VyaparMitra
-*An AI-driven retail intelligence platform for inventory management, demand forecasting, and shelf optimization.*
-- **Hybrid Microservices:** Designed a hybrid architecture using Node.js/TypeScript for core business logic and a Python microservice for computer vision tasks.
-- **Computer Vision:** Deployed YOLO models to perform real-time shelf monitoring and object detection, automating stock counting and low-inventory alerts via WhatsApp.
-- **Market Basket Analysis:** Applied the Apriori algorithm to analyze transaction datasets, generating data-driven shelf placement strategies to maximize cross-selling.
-- **RAG Assistant:** Integrated Qdrant vector database and LangChain to power a context-aware product assistant capable of querying unstructured PDF knowledge bases.
-- **High-Performance Analytics:** Built a streaming CSV parser to process massive sales datasets memory-efficiently, enabling seasonal trend analysis and revenue forecasting.
-
-### Vidya Setu
-*A centralized academic project management and digital portfolio system for higher education institutions.*
-- **Centralized Repository:** Developed a scalable platform using React, Node.js, and MongoDB to unify project submission, evaluation, and archiving workflows.
-- **Digital Portfolios:** Engineered an automated portfolio generation system that compiles student achievements and verified certificates into shareable, internship-ready profiles.
-- **RBAC System:** Implemented a granular Role-Based Access Control system with JWT authentication to manage distinct permissions for students, faculty, and administrators.
-- **Compliance Reporting:** Designed analytics-ready data models that align with institutional reporting standards (NAAC/NIRF), simplifying accreditation audits.
-- **File Management:** Utilized MongoDB GridFS for secure, scalable storage and retrieval of academic documents and project assets.
-
-### GearGuard
-*A full-stack asset maintenance system featuring Kanban workflows and smart equipment monitoring.*
-- **Workflow Orchestration:** Built an interactive Kanban board using React and `@hello-pangea/dnd` to visualize and manage the lifecycle of maintenance requests.
-- **Asset Lifecycle Logic:** Implemented automated equipment health degradation logic that triggers scrapping workflows and status updates based on maintenance history.
-- **Data Integrity:** Designed a normalized SQLite database schema with strict constraints to track equipment assignments, warranty periods, and technician workloads.
-- **Scheduling System:** Developed a visual calendar interface for planning preventive maintenance, ensuring optimal resource allocation across work centers.
-- **Security:** Established a secure authentication flow using bcrypt hashing and JWT sessions, protecting API endpoints for critical asset operations.
-
-### PaySaPal
-*A real-time expense splitting application with background financial insights.*
-- **Real-Time Sync:** Leveraged Convex as a reactive backend to ensure instant state synchronization across devices for shared group expenses.
-- **Complex Logic:** Implemented splitting algorithms supporting equal, exact, and percentage-based distribution while maintaining floating-point precision.
-- **Background Processing:** Integrated Inngest to handle scheduled cron jobs for monthly spending summaries and daily debt settlement reminders.
-- **AI Insights:** Utilized Google Generative AI to analyze transaction history and generate personalized financial advice and spending trends.
-
-### MailMind
-*A Chrome Extension (MV3) for context-aware, AI-generated email responses.*
-- **Browser Integration:** Developed a manifest v3 Chrome extension that injects UI components directly into the Gmail DOM for seamless user interaction.
-- **Secure Backend:** Architected a Node.js/Express middleware to handle OAuth tokens and API keys, ensuring no sensitive credentials are exposed in the client-side code.
-- **Contextual Generation:** Engineered prompt optimization pipelines to analyze email thread history and generate tonally appropriate reply drafts.
-
 ## Achievements
 
 - **Second Runner-Up**, TechnoGrad 3.0 (DJSCE Mumbai)
