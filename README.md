@@ -1,6 +1,6 @@
 <div align="left">
 
-<a href="https://darshanxdev.netlify.app">
+<a href="https://darshanved.vercel.app">
   <img align="left" alt="Portfolio" width="22px" src="https://img.icons8.com/ios/50/domain--v1.png" />
 </a>
 <a href="https://www.linkedin.com/in/darshan-ved-38075632a">
@@ -14,32 +14,49 @@
 </a>
 
 </div>
+
 <br/>
 <br/>
 
 # Darshan Ved
 
-**2x Hackathon Winner | Full Stack Developer | Data Science Undergrad**
+**2x Hackathon Winner | Full-Stack Developer | Data Science Undergrad**
 
-I am a Computer Science Engineering student at Dwarkadas J. Sanghvi College of Engineering, specializing in Data Science. My expertise lies in architecting scalable full-stack applications and integrating AI models into production environments. I bridge the gap between complex backend systems and intuitive frontend design, focusing on performance, maintainability, and real-world impact.
+I am a Computer Science Engineering student at Dwarkadas J. Sanghvi College of Engineering, specializing in Data Science. I build production-grade full-stack systems across AI automation, real-time backend infrastructure, CRM intelligence, healthcare technology, and developer tooling.
 
-Currently focused on **Java DSA**, **System Design**, and **Generative AI** integrations.
+My work focuses on shipping systems that are fast, reliable, measurable, and built for real operational use — from AI voice agents and lead intelligence pipelines to performance-heavy Next.js applications and role-based admin platforms. I care about clean architecture, strong engineering fundamentals, scalable APIs, frontend performance, and turning complex product requirements into sharp, usable software.
+
+Currently focused on **Java DSA**, **System Design**, **Backend Architecture**, and **Generative AI Integrations**.
 
 ## Professional Experience
 
-**Web Developer Intern | Theta Sound**
-- **Performance Optimization:** Orchestrated a complete frontend overhaul using React and Tailwind CSS, slashing First Contentful Paint (FCP) latency by **40%** through aggressive code splitting and lazy loading strategies.
-- **State Management Architecture:** Refactored legacy prop-drilling patterns into a centralized state management flow, eliminating **30%** of unnecessary re-renders and drastically improving UI responsiveness.
-- **Component Engineering:** Engineered a modular, reusable component library that accelerated feature shipping velocity by **35%**, enforcing strict TypeScript interfaces to reduce runtime errors near-zero.
-- **API Integration:** Optimized payload handling between the frontend and backend microservices, implementing caching layers that reduced network overhead by **25%** during peak load times.
+**Software Developer Intern | Parmar Properties**
+- **AI Voice Automation:** Built a real-time AI voice agent using GPT-4o Realtime, FastAPI, and WebSockets to automate property lead qualification, intent routing, appointment scheduling, and follow-up workflows at sub-300ms latency.
+- **CRM Intelligence Pipeline:** Engineered an inbound lead capture system that enriched every call into PostgreSQL with intent scores, structured summaries, and follow-up metadata, reducing manual qualification effort by **60%**.
+- **Conversion Engineering:** Rebuilt landing pages with lazy hydration, asset compression, and optimized frontend delivery, improving Lighthouse performance by **45%** and increasing inbound conversion by **30%**.
+- **Systems Integration:** Connected AI-driven call intelligence with CRM workflows to enable faster lead prioritization, cleaner sales handoff, and reduced manual operational overhead.
+
+**Frontend Developer Intern | Theta Sound**
+- **Performance Optimization:** Removed bottlenecks across high-traffic Next.js pages through component-level code splitting, lazy hydration, and asset optimization, improving Lighthouse scores by **40%+**.
+- **UI Stability:** Eliminated major cumulative layout shift regressions across responsive breakpoints, improving visual consistency and user experience across desktop and mobile.
+- **Design System Engineering:** Shipped a reusable WCAG 2.1 AA-compliant React component system that improved session engagement by **35%+** and reduced frontend inconsistency.
+- **Release Execution:** Streamlined Figma-to-production delivery through structured weekly release cycles, reducing implementation turnaround by **30%**.
+
+**Software Developer Intern | Pelorus Occupational Therapy**
+- **Lead Discovery Automation:** Built a social media scraping pipeline using BeautifulSoup to identify therapy-related interactions, process **1,200+** patient-intent signals, and surface high-priority outreach opportunities.
+- **Data Pipeline Engineering:** Designed a PostgreSQL-backed deduplication system using fingerprinting, multi-signal scoring, and a 4-tier priority classification model.
+- **Backend Automation:** Engineered a Python cron and FastAPI pipeline for automated appointment-intent classification, enrichment, and operational routing.
+- **Admin Dashboard:** Delivered a role-based React dashboard that reduced therapist outreach coordination effort by **50%** and improved visibility across patient discovery workflows.
 
 ## Technologies & Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
- <img src="https://go-skill-icons.vercel.app/api/icons?i=c,java,python,javascript,typescript,html,css,react,nextjs,threejs,tailwind,gsap,framer,vite,redux,nodejs,express,fastapi,flask,graphql,jwt,socketio,prisma,postgres,mysql,mongodb,sqlite,redis,supabase,firebase,docker,githubactions,git,github,vercel,netlify,aws,gcp,sklearn,jupyter,kaggle,npm,postman,streamlit,vscode,figma,canva,render,replit,&perline=14" />
- </a>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,java,python,javascript,typescript,html,css,react,nextjs,vite,tailwind,redux,zustand,framer,threejs,nodejs,express,fastapi,fastify,django,spring,graphql,jwt,socketio,postgres,mysql,mongodb,sqlite,redis,supabase,neo4j,docker,kubernetes,aws,vercel,render,githubactions,git,sklearn,pandas,numpy&perline=14" />
+  </a>
 </p>
+
+
 
 ## Achievements
 
@@ -52,13 +69,11 @@ Currently focused on **Java DSA**, **System Design**, and **Generative AI** inte
 
 ## Open Source & Statistics
 
-<p align="left">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darved2305&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=darved2305&layout=compact&langs_count=8&theme=algolia"/>
-</p>
+I actively build and ship systems across AI automation, backend infrastructure, health tech, developer tooling, Web3, and data-driven products. My repositories focus on production-oriented engineering: clean architecture, strong type safety, scalable APIs, real-time workflows, AI integrations, and measurable product impact.
 
 ## Contact
 
 - **Portfolio:** [darshanved.vercel.app](https://darshanved.vercel.app/)
 - **Email:** darshanmved@gmail.com
 - **Location:** Mumbai, India
+```
